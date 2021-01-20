@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobius</string>
+    <string name="purchase_amount">Purchase Amount</string>
+    <string name="bonus_amount">Bonus Amount</string>
+    <string name="instant_cash">Instant Cash</string>
+    <string name="hide_details">Hide Details</string>
+    <string name="min_deposit">Min. Deposit</string>
+    <string name="applied">Applied</string>
+</resources>
